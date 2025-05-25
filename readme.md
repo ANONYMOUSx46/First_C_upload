@@ -16,7 +16,7 @@ Ensure you have `gcc` installed (via MinGW or similar). Compile using:
 ```bash
 gcc quick_sysinfo2.c -o system_info.exe
 ```
-### Run with
+Run with:
 ```bash
 system_info.exe
 ```
